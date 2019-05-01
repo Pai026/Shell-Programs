@@ -8,3 +8,6 @@ if($4>=50 || $2>=50 || $3>=50)
 }
 }
 END{print "Number of students who passed atleast 1 subject =" a}' student.txt
+#the first 3 lines avar student.txt nu paranja file le 2 3 4 column values edutu athinte average kandu pidikum
+#then nama 2 3 4 column noki athil orenam engilum 50 katum greater anel count (a) increase cheyum
+#then finally ah count display cheyum
