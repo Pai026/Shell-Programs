@@ -1,4 +1,4 @@
-#Program to traverse through the files and folders of the current directories
+#Program to traverse through the files and folders of the current directory
 
 for i in *
 do
