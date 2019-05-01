@@ -1,10 +1,1 @@
-total 
--rw-r--r-- abc.txt
--rw-r--r-- exp1.sh
--rw-r--r-- exp2.sh
--rw-r--r-- exp3.sh
--rw-r--r-- exp4.sh
--rw-r--r-- exp5.sh
--rw-r--r-- exp6.sh
--rw-r--r-- exp7.sh
--rw-r--r-- test.txt
+23 test.txt
