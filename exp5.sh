@@ -1,5 +1,5 @@
 #To find average of n numbers
-n=$#
+n=$# #$#returns the number of arguments passed to the program 
 sum=0
 for i in "$@"
 do 
