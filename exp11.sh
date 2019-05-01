@@ -2,6 +2,5 @@
 sum=0
 for i in *
 do
-	wc -c $i > abc.txt
-	echo $i
+	wc -c $i | awk '{s+=$1}END{print s}'
 done
