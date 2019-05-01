@@ -1,5 +1,4 @@
 #program to check the largest number from the given set
-n=$#
 large=$1
 for i in "$@"
 do
