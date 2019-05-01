@@ -14,5 +14,5 @@ then
 	echo "The number is palindrome"
 else
 	
-	echo "$r Not palindrome"
+	echo "$n Not palindrome"
 fi
