@@ -1,0 +1,3 @@
+abc.txt   exp11.sh  exp14.sh  exp3.sh  exp6.sh	exp9.sh		  size.txt
+abhi	  exp12.pl  exp1.sh   exp4.sh  exp7.sh	listmyfolder.txt  student.txt
+exp10.sh  exp13.pl  exp2.sh   exp5.sh  exp8.sh	pai		  test.txt
