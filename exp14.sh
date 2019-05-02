@@ -1,5 +1,5 @@
 #script to count number of students passed in atleast 1 exam and average marks scored per subject
-awk '{s+=$2}END{print "average for 1 subject is" s/3}' student.txt
+awk '{s+=$2}END{print "average for 1 subject is" s/3}' student.txt #ee file il 3 students and avarde 3 subject le mark um ind
 awk '{k+=$3}END{print "average for 2 subject is" k/3}' student.txt
 awk '{m+=$4}END{print "average for 3 subject is" m/3}' student.txt
 awk '{
