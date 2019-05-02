@@ -1,6 +1,6 @@
 #program to find fibonacci sequence upto a limit
-a=$1
-i=2
+a=$1 #limit is passed as cmd argument
+i=2 
 f=0
 s=1
 echo "$f"
